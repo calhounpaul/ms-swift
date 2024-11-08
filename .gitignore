@@ -1,3 +1,6 @@
+docker/workdir/*
+!docker/workdir/sft_*.sh
+!docker/workdir/datasets/
 # Byte-compiled / optimized / DLL files
 tmp
 *.ttf
